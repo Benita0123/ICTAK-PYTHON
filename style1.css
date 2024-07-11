@@ -1,0 +1,36 @@
+h1{
+    color:white;
+   font-size: 40px;
+}
+h2
+{
+ color: white;
+}
+h4{
+    color:white;
+}
+h3{
+    color:wheat;
+}
+ol{
+    color: aqua;
+}
+ul{
+    color: white;
+}
+strong{
+    background-color: aqua;
+}
+body{
+    background: url(sparkle-cloud-pastel-purple-image_53876-94837.avif);
+}   
+
+ol{
+    font-weight: bold;
+    color:aquamarine;
+}
+ul{
+    font-size:medium;
+     color:white;
+
+}
